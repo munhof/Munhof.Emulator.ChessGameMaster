@@ -1,0 +1,6 @@
+python-chess
+psycopg2-binary
+pandas
+python-dotenv
+numpy
+chess
