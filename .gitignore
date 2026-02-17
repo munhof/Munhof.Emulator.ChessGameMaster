@@ -3,3 +3,6 @@
 out
 __pycache__
 data
+docs/research/fase_1_estilo.md
+bin/
+*.exe
